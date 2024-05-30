@@ -1,15 +1,15 @@
 # Vrinda Store Data Analysis using Excel
-#Objective
-Fashion Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Fashion Store Dashboard using EXCEL.
+Objective:- 
+Vrinda Store wants to create an annual sales report for 2023 to gain a deeper understanding of their customers behavior, inventory management and to give valuable insights to drive sales growth. 
 
-Sample Insights
-Women are more likely to buy compared to men (~65%)
+Key Insights:-
+1. Women are more likely to buy compared to men (~65%)
 
-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35)
+2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35)
 
-Adult age group (30-49 yrs) is max contributing (~50%)
+3. Adult age group (30-49 yrs) is max contributing (~50%)
 
-Amazon, Flipkart and Myntra channels are max contributing (~80)
+4. Amazon, Flipkart and Myntra channels are max contributing (~80)
 
-Final Conclusion to improve Fashion store sales:
-Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+Recommendation:-
+In the end, my recommendation for Vrinda store was to focus on Women candidate of Adult age group as they had highest(34%) contribution to sales by showing offers on channels like Amazon, Flipkart and Myntra. Also, as Vrinda made fewer sales in the last quarter of 2022, so in the next year they can give more offers to the customer in this time period to increase sales. 
